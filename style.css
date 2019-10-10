@@ -1,0 +1,9 @@
+.navbar-brand{
+    padding:20px;
+    width: 250px;
+    text-align: center;
+}
+.portfoliopage:hover {
+    outline: 5px solid gray;
+    outline-offset: 5px;
+}
