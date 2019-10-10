@@ -7,3 +7,11 @@
     outline: 5px solid gray;
     outline-offset: 5px;
 }
+.box-shadow{
+    -webkit-box-shadow: 10px 10px 12px 7px rgba(0,0,0,0.22);
+-moz-box-shadow: 10px 10px 12px 7px rgba(0,0,0,0.22);
+box-shadow: 10px 10px 12px 7px rgba(0,0,0,0.22);
+}
+.padding{
+    padding: 10px;
+}
